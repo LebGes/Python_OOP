@@ -617,22 +617,18 @@ print(student)
 Название SOLID образовано первыми буквами английских названий принципов:
 
   -------------------------
-  Буква                   Название                Перевод
+  **Буква - Название - Перевод**
   --------- --------- ---------
-  S                       Single Responsibility   Принцип единственной
-                          Principle               ответственности
+  **S - Single Responsibility Principle - Принцип единственной ответственности**
+   
+  **O - Open/Closed Principle - Принцип открытости/закрытости**
 
-  O                       Open/Closed Principle   Принцип
-                                                  открытости/закрытости
+  **L - Liskov Substitution Principle - Принцип подстановки Барбары Лисков**
 
-  L                       Liskov Substitution     Принцип подстановки
-                          Principle               Барбары Лисков
+  **I - Interface Segregation Principle - Принцип разделения интерфейсов**
 
-  I                       Interface Segregation   Принцип разделения
-                          Principle               интерфейсов
-
-  D                       Dependency Inversion    Принцип инверсии
-                          Principle               зависимостей
+  **D - Dependency Inversion Principle - Принцип инверсии зависимостей**
+                                         
   -------------------------
 
 Необязательно применять все принципы в каждой маленькой программе. Их
